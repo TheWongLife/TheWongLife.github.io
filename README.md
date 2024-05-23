@@ -23,6 +23,8 @@
 
 - 📫 Contact me at **nwong27@illinois.edu**
 
+- 📄 Resume [PDF](https://thewonglife.github.io/Nicholas%20Wong%20Resume.pdf)
+
 - ⚡ Fun fact: **I've been a Course Assistant for 4 STAT courses**
 
 <h3 align="left">Connect with me:</h3>
