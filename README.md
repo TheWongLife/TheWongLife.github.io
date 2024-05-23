@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://x.com/the_wong_life" target="blank"><img src="https://img.shields.io/twitter/follow/the_wong_life?logo=twitter&style=for-the-badge" alt="the_wong_life" /></a> </p>
 
-- 🔭 I’m currently working as a [Blackwell Summer Scholars](https://stat.illinois.edu/research/blackwell-summer-scholars-program)
+- 🔭 I’m currently working as a [Blackwell Summer Scholar](https://stat.illinois.edu/research/blackwell-summer-scholars-program)
 
 - 🌱 I’m currently learning **Machine Learning**
 
@@ -15,7 +15,7 @@
 
 - 🤝 I’m interested in [Internships & Research](https://researchpark.illinois.edu/work-here/careers/)
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/TheWongLife)
+- 👨‍💻 All of my projects are available at [Github (This current page)](https://github.com/TheWongLife)
 
 - 📝 I regularly read posts on [Reddit](https://www.reddit.com/)
 
