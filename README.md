@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://thewonglife.is-a.dev/Nicholas_Wong_LinkedIn_Banner.png" alt="thewonglife" /> </p>
 <h1 align="center">Hi 👋, I'm Nicholas Wong</h1>
 <h3 align="center">Senior @ University of Illinois Urbana-Champaign (UIUC) majoring in Statistics</h3>
 
@@ -33,7 +34,7 @@
 <a href="https://linkedin.com/in/nicholaswong27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicholaswong27" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22104114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22104114" height="30" width="40" /></a>
 <a href="https://kaggle.com/thewonglife1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="thewonglife1" height="30" width="40" /></a>
-<a href="https://fb.com/thewonglife1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thewonglife1" height="30" width="40" /></a>
+<a href="https://facebook.com/thewonglife1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thewonglife1" height="30" width="40" /></a>
 <a href="https://instagram.com/the.wong.life" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.wong.life" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCwX7WTNBrh2Q5BoRsfo_bgw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thewonglife1" height="30" width="40" /></a>
 </p>
