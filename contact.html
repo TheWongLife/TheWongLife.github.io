@@ -50,19 +50,19 @@
             </div>
         </nav>
 
-        <h1 class="text-center mt-5">How to contact me</h1>
+        <h1 class="text-center mt-5">Let's start a conversation</h1>
 
         <div class="container mt-5">
             <div class="row align-items-center">
                 <div class="col">
-                    <p align="center"> <img src="Nicholas_Wong_Japan_House.PNG" style="width: 25%;" alt="thewonglife" /> </p>
+                    <p align="center"> <img src="Nicholas_Wong_Japan_House.PNG" style="width: 35%;" alt="thewonglife" /> </p>
                     <p class="text-center">You can contact me at <strong>nwong27@illinois.edu</strong></p>
-                    <p class="text-center">Or send me a message below</p>
+                    <p class="text-center">Or fill out the form below to send me a message</p>
                 </div>
             </div>
         </div>
 
-        <form action="https://formspree.io/f/xoqgzpop" method="POST">
+        <form action="https://formsubmit.co/nwong27@illinois.edu" method="POST">
         <div class="container mt-5">
             <div class="row">
                     <div class="col-md-6">
@@ -84,21 +84,23 @@
                          <div class="form-group">
                             <input type="text" placeholder="Phone Number" name="Phone Number" class="form-control" required>
                         </div>
-                        </div> 
+                    </div> 
                  </div>
     
                  <div class="row">
                      <div class="col-md-12">
                           <div class="form-group">
-                            <textarea type="text" placeholder="Message" name="Message" class="form-control" required></textarea>
+                            <textarea maxlength="1000" type="text" placeholder="Message" name="Message" class="form-control" rows="10" required></textarea>
                         </div>
                         <div class="col-md-6 ">
                              <div class="form-group">
-                                <button type="submit">Send</button>
+                                <button type="submit" class="btn btn-lg btn-dark btn-block">Submit form</button>
                         </div>
                     </div>
               </div>
         </div>
+        <input type="hidden" name="_captcha" value="true">
+        <input type="hidden" name="_template" value="table">
         </form>
 
         <footer>
