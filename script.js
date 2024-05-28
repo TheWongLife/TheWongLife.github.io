@@ -1,3 +1,7 @@
+import { Ripple, initMDB } from "mdb-ui-kit";
+
+initMDB({ Ripple });
+
 var cursor = true;
 var speed = 250;
 setInterval(() => {
