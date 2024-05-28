@@ -60,16 +60,7 @@
                 <div class="col-lg mx-2 align-self-center">
                     <div class="my-3">
                         <h1 class="text-center">I'm Nicholas Wong, </h1>
-                        <h2 class="text-center">
-                            <div id="typed-strings">
-                                <h2>a coder</h2>
-                                <h2>a Computer Scientist</h2>
-                                <h2>a Statistician</h2>
-                                <h2>a student</h2>
-                                <h2>an athlete</h2>
-                            </div>
-                            <span id="typed"></span>
-                        </h2>
+                        <h2 class="text-center"><span id="typed"></span></h2>
                         <span class="wrap"></span>
                         <p>I'm currently a Senior at the University of Illinois Urbana-Champaign (UIUC) studying Statistics & minoring 
                             in Computer Science, where I've served as a Course Assistant for courses in both subjects. I'm currently researching 
@@ -195,8 +186,8 @@
             });
         </script>
         <script>
-            const typed = new Typed('#typed', {
-                stringsElement: '#typed-strings',
+            const typed = new Typed('.element', {
+                strings: ['a coder', "a Computer Scientist", 'a Statistician', 'a student', 'an athlete'],
                 typeSpeed: 40,
                 backDelay: 1000,
                 loop: true,
