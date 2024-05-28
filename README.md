@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m collaborating with [Professor Hyoeun Lee](https://www.linkedin.com/in/hyoeunlee/)
+- 👯 I’m collaborating with [Professor Hyoeun Lee](https://www.linkedin.com/in/hyoeunlee)
 
-- 🤝 I’m interested in [Internships & Research](https://researchpark.illinois.edu/work-here/careers/)
+- 🤝 I’m interested in [Internships & Research](https://researchpark.illinois.edu/work-here/careers)
 
 - 👨‍💻 All of my projects are available at [Github (This current page)](https://github.com/TheWongLife)
 
-- 📝 I regularly read posts on [Reddit](https://www.reddit.com/)
+- 📝 I regularly read posts on [Reddit](https://www.reddit.com)
 
 - 💬 Ask me about **Data Science & Statistics**
 
