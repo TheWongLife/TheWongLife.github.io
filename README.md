@@ -1,4 +1,4 @@
-<p align="left"> <img src="Nicholas_Wong_LinkedIn_Banner.png" alt="thewonglife" /> </p>
+<p align="left"> <img src="images/Nicholas_Wong_LinkedIn_Banner.png" alt="thewonglife" /> </p>
 <h1 align="center">Hi 👋, I'm Nicholas Wong</h1>
 <h3 align="center">Senior @ University of Illinois Urbana-Champaign (UIUC) majoring in Statistics</h3>
 
@@ -24,7 +24,7 @@
 
 - 📫 Contact me at **nwong27@illinois.edu**
 
-- 📄 Resume [PDF](https://thewonglife.is-a.dev/resume.html)
+- 📄 Resume [PDF](https://thewonglife.is-a.dev/html/resume.html)
 
 - ⚡ Fun fact: **I've been a Course Assistant for 4 STAT courses**
 
