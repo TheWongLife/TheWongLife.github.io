@@ -32,6 +32,31 @@
             }
         </style>
         <style>
+            .scroll-wrapper {text-align:center;}
+            .scroll {   
+                font-size: 50px;
+                color: #000;
+               -webkit-animation: scrolling 3s ease infinite;
+               -moz-animation: scrolling 3s ease infinite;
+               -o-animation: scrolling 3s ease infinite;
+               animation: scrolling 3s ease infinite;
+            }
+            
+            @keyframes scrolling {
+              0% {
+                transform: translate(0);
+              }
+             
+              50% {
+                transform: translate(0,40px);
+              }
+            
+              100% {
+                 transform: translate(0);
+              }
+            }
+        </style>
+        <style>
             #btn-back-to-top {
               position: fixed;
               bottom: 20px;
@@ -80,14 +105,16 @@
         </nav>
 
         <main>
-            <h4 class="header404">404</h4>
+            <h4 class="header404">404 <i class="fa-solid fa-magnifying-glass fa-sm"></i></h4>
             <div class="content-404">
-                The page you're looking for couldn't be found <i class="fa-solid fa-xmark fa-sm"></i>.
+                The page you're looking for couldn't be found <i class="fa-solid fa-user-xmark fa-sm"></i>.
             </div>
             <p>
                 Please navigate back to <a href="https://thewonglife.is-a.dev">my home <i class="fa-solid fa-house fa-sm"></i> page</a>.
             </p>
         </main>
+
+        <div class="scroll-wrapper"><a href="#footer"><i class="scroll fa-solid fa-chevron-down fa-sm"></i></a></div>
 
         <button
                 type="button"
@@ -97,7 +124,7 @@
             <i class="fa-solid fa-chevron-up fa-sm"></i>
         </button>
 
-        <footer class="text-center">
+        <footer class="text-center" id="footer">
             <div class="container pt-4">
               <section class="mb-4">
                 <a
