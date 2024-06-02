@@ -84,6 +84,17 @@
                     <div class="form-check form-switch">
                         <input class="form-check-input" type="checkbox" id="darkModeSwitch" checked>
                     </div>
+                    <div class="input-group ps-5">
+                      <div id="navbar-search-autocomplete" class="form-outline" data-mdb-input-init>
+                          <form action="https://google.com/search" method="GET">
+                              <input type="hidden" name="sitesearch" value="https://thewonglife.is-a.dev" />
+                              <input type="text" name="q" />
+                          </form>
+                      </div>
+                      <button type="button" class="btn btn-primary" data-mdb-ripple-init>
+                          <i class="fa-solid fa-magnifying-glass fa-sm"></i>
+                      </button>
+                  </div>
                 </div>
             </div>
         </nav>
@@ -278,9 +289,20 @@
         <script src="../js/script.js"></script>
         <script src="../js/scroll.js"></script>
         <script>
-            import { Ripple, initMDB } from "mdb-ui-kit";
-            initMDB({ Ripple });
-        </script>
+            import { Autocomplete, Collapse, Dropdown, Input, Ripple, initMDB } from "mdb-ui-kit";
+            initMDB({ Collapse, Dropdown, Input, Ripple });
+            const navbarAutocomplete = document.querySelector('#navbar-search-autocomplete');
+            const navbarData = ['About', 'Contact', 'Resume'];
+            const navbarDataFilter = (value) => {
+                return navbarData.filter((item) => {
+                    return item.toLowerCase().startsWith(value.toLowerCase());
+                });
+            };
+
+            new Autocomplete(navbarAutocomplete, {
+                filter: navbarDataFilter,
+            });
+      </script>
     </body>
 
 </html>
