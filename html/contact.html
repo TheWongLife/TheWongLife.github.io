@@ -89,7 +89,7 @@
                     <form class="search navbar-form navbar-right" action="http://www.google.com/search" method="GET" role="search" onSubmit="Gsitesearch(this)"> 
                         <div class="input-group"> <input name="q" type="hidden" /> 
                         <input class="form-control" name="qfront" type="search" required class="searchField" placeholder="Search" maxlength="50"/> 
-                        <span class="input-group-btn"> <button type="submit" class="search-button btn btn-primary"> <span class="glyphicon glyphicon-search"></span> </button> </span> 
+                        <span class="input-group-btn"> <button type="submit" class="search-button btn btn-primary"> <span class="fa-solid fa-magnifying-glass fa-sm"></span> </button> </span> 
                         </div> 
                     </form>
                 </div>
@@ -290,19 +290,8 @@
         <script src="../js/script.js"></script>
         <script src="../js/scroll.js"></script>
         <script>
-            import { Autocomplete, Collapse, Dropdown, Input, Ripple, initMDB } from "mdb-ui-kit";
-            initMDB({ Collapse, Dropdown, Input, Ripple });
-            const navbarAutocomplete = document.querySelector('#navbar-search-autocomplete');
-            const navbarData = ['About', 'Contact', 'Resume'];
-            const navbarDataFilter = (value) => {
-                return navbarData.filter((item) => {
-                    return item.toLowerCase().startsWith(value.toLowerCase());
-                });
-            };
-
-            new Autocomplete(navbarAutocomplete, {
-                filter: navbarDataFilter,
-            });
+            import { Ripple, initMDB } from "mdb-ui-kit";
+            initMDB({ Ripple });
         </script>
     </body>
 
