@@ -67,32 +67,31 @@
                 <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
                     <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                         <li class="nav-item">
-                            <a class="nav-link" href="about.html">About <i class="fa-solid fa-user fa-sm"></i></a>
+                            <a class="nav-link" href="about.html">About</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="contact.html">Contact <i class="fa-solid fa-envelope fa-sm"></i></a>
+                            <a class="nav-link" href="contact.html">Contact</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="resume.html">Resume <i class="fa-solid fa-file fa-sm"></i></a>
+                            <a class="nav-link" href="resume.html">Resume</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#"><i class="fa-solid fa-sun fa-sm"></i> / <i class="fa-solid fa-moon fa-sm"></i></a>
+                            <a class="nav-link" href="#">Light / Dark</a>
                         </li>
                     </ul>
                     <div class="form-check form-switch">
                         <input class="form-check-input" type="checkbox" id="darkModeSwitch" checked>
                     </div>
-                    <div class="input-group ps-5">
-                      <div id="navbar-search-autocomplete" class="form-outline" data-mdb-input-init>
-                          <form action="https://google.com/search" method="GET">
-                              <input type="hidden" name="sitesearch" value="https://thewonglife.is-a.dev" />
-                              <input type="text" name="q" />
-                          </form>
-                      </div>
-                      <button type="button" class="btn btn-primary btn-sm" data-mdb-ripple-init>
-                          <i class="fa-solid fa-magnifying-glass fa-sm"></i>
-                      </button>
-                  </div>
+                    <script>
+                        var domainroot="thewonglife.is-a.dev"
+                        function Gsitesearch(curobj){ curobj.q.value="site:"+domainroot+" "+curobj.qfront.value } 
+                    </script> 
+                    <form class="search navbar-form navbar-right" action="http://www.google.com/search" method="GET" role="search" onSubmit="Gsitesearch(this)"> 
+                        <div class="input-group"> <input name="q" type="hidden" /> 
+                        <input class="form-control" name="qfront" type="search" required class="searchField" placeholder="Search" maxlength="50"/> 
+                        <span class="input-group-btn"> <button type="submit" class="search-button btn btn-primary"> <span class="glyphicon glyphicon-search"></span> </button> </span> 
+                        </div> 
+                    </form>
                 </div>
             </div>
         </nav>
