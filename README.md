@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://x.com/the_wong_life" target="blank"><img src="https://img.shields.io/twitter/follow/the_wong_life?logo=twitter&style=for-the-badge" alt="the_wong_life" /></a> </p>
 
-- 🔭 I’m currently working as a [STAT 385 Course Assistant (CA)](https://stat.illinois.edu/resources/student-resources/statistics-course-assistant-application)
+- 🔭 I’m currently working as a [STAT 385](https://fa24.stat385.org/) [Course Assistant (CA)](https://stat.illinois.edu/resources/student-resources/statistics-course-assistant-application)
 
 - 🌱 I’m currently learning **more about Data Science**
 
