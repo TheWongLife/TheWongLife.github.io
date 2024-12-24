@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://x.com/the_wong_life" target="blank"><img src="https://img.shields.io/twitter/follow/the_wong_life?logo=twitter&style=for-the-badge" alt="the_wong_life" /></a> </p>
 
-- 🔭 I’m currently working as a [STAT 385](https://fa24.stat385.org/) [Course Assistant (CA)](https://stat.illinois.edu/resources/student-resources/statistics-course-assistant-application)
+- 🔭 I’m currently working as a [STAT 428](https://sites.google.com/view/susuzhang/teaching/stat-428) [Course Assistant (CA)](https://stat.illinois.edu/resources/student-resources/statistics-course-assistant-application)
 
 - 🌱 I’m currently learning **more about Data Science**
 
-- 👯 I’m collaborating with [Professor Daniel J. Eck](https://publish.illinois.edu/danieleck/)
+- 👯 I’m collaborating with [Professor Susu Zhang](https://sites.google.com/view/susuzhang/)
 
 - 🤝 I’m interested in [Internships & Research](https://researchpark.illinois.edu/work-here/careers)
 
@@ -26,7 +26,7 @@
 
 - 📄 Resume [PDF](https://thewonglife.is-a.dev/html/resume)
 
-- ⚡ Fun fact: **I've been a Course Assistant for 4 STAT courses**
+- ⚡ Fun fact: **I've been a Course Assistant for 5 STAT courses**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
