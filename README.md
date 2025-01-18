@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://x.com/the_wong_life" target="blank"><img src="https://img.shields.io/twitter/follow/the_wong_life?logo=twitter&style=for-the-badge" alt="the_wong_life" /></a> </p>
 
-- 🔭 I’m currently working as a [CS 173](https://courses.grainger.illinois.edu/cs173/sp2025/) & [STAT 428](https://sites.google.com/view/susuzhang/teaching/stat-428) [Course Assistant (CA)](https://stat.illinois.edu/resources/student-resources/statistics-course-assistant-application)
+- 🔭 I’m currently working as a [CS 173](https://courses.grainger.illinois.edu/cs173/sp2025/) & [STAT 428](https://sites.google.com/view/susuzhang/teaching/stat-428) [Course Assistant (CA)](https://stat.illinois.edu/resources/student-resources/statistics-course-assistant-application) & researching as part of the [Illinois Mathematics Lab (IML)](https://iml.math.illinois.edu/)
 
 - 🌱 I’m currently learning **more about Computer Science, Data Science, & Statistics**
 
-- 👯 I’m collaborating with [Professor Margaret Fleck](https://mfleck.cs.illinois.edu/) & [Professor Susu Zhang](https://sites.google.com/view/susuzhang/)
+- 👯 I’m collaborating with [Professor Margaret Fleck](https://mfleck.cs.illinois.edu/), [Professor Susu Zhang](https://sites.google.com/view/susuzhang/), & [Professor Igor Mineyev](https://mineyev.web.illinois.edu/)
 
 - 🤝 I’m interested in [Internships & Research](https://researchpark.illinois.edu/work-here/careers)
 
