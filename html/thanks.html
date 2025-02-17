@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
     <head>
         <meta name="google-site-verification" content="KYY2gmgAlkWGunYxJZTgO_K8TAHiaPRdJUP6lpE9Yek" />
         <link rel="icon" href="../images/Nicholas_Wong_Favicon.png">
@@ -26,16 +25,13 @@
                -o-animation: scrolling 3s ease infinite;
                animation: scrolling 3s ease infinite;
             }
-            
             @keyframes scrolling {
               0% {
                 transform: translate(0);
               }
-             
               50% {
                 transform: translate(0,40px);
               }
-            
               100% {
                  transform: translate(0);
               }
@@ -50,7 +46,6 @@
             }
         </style>
     </head>
-
     <body>
         <nav class="navbar sticky-top navbar-dark navbar-expand-lg bg-dark ">
             <div class="container-fluid">
@@ -97,9 +92,7 @@
                 </div>
             </div>
         </nav>
-
         <h1 class="text-center mt-5">Thank You</h1>
-
         <div class="container mt-5">
             <div class="row align-items-center">
                 <div class="col">
@@ -109,9 +102,7 @@
                 </div>
             </div>
         </div>
-
         <div class="scroll-wrapper"><a href="#footer"><i class="scroll fa-solid fa-chevron-down fa-sm"></i></a></div>
-
         <button
                 type="button"
                 class="btn btn-dark btn-floating btn-lg"
@@ -119,7 +110,6 @@
                 >
             <i class="fa-solid fa-chevron-up fa-sm"></i>
         </button>
-
         <footer class="text-center" id="footer">
             <div class="container pt-4">
               <section class="mb-4">
@@ -222,11 +212,9 @@
             document.addEventListener('DOMContentLoaded', (event) => {
                 const htmlElement = document.documentElement;
                 const switchElement = document.getElementById('darkModeSwitch');
-
                 const currentTheme = localStorage.getItem('bsTheme') || 'dark';
                 htmlElement.setAttribute('data-bs-theme', currentTheme);
                 switchElement.checked = currentTheme === 'dark';
-
                 switchElement.addEventListener('change', function () {
                     if (this.checked) {
                         htmlElement.setAttribute('data-bs-theme', 'dark');
@@ -251,5 +239,4 @@
             initMDB({ Ripple });
         </script>
     </body>
-
 </html>
