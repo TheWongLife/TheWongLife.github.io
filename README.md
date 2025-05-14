@@ -1,15 +1,11 @@
 <p align="left"> <img src="images/Nicholas_Wong_LinkedIn_Banner.png" alt="thewonglife" /> </p>
 <h1 align="center">Hi 👋, I'm Nicholas Wong</h1>
-<h3 align="center">Senior @ University of Illinois Urbana-Champaign (UIUC) majoring in Statistics</h3>
+<h3 align="center">Attended University of Illinois Urbana-Champaign (UIUC) & majored in Statistics</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thewonglife&label=Profile%20views&color=0e75b6&style=flat" alt="thewonglife" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thewonglife" alt="thewonglife" /></a> </p>
 <p align="left"> <a href="https://x.com/the_wong_life" target="blank"><img src="https://img.shields.io/twitter/follow/the_wong_life?logo=twitter&style=for-the-badge" alt="the_wong_life" /></a> </p>
 
-- 🔭 I’m currently working as a [CS 173](https://courses.grainger.illinois.edu/cs173/sp2025/), [STAT 425](https://publish.illinois.edu/liangf/teaching/stat-425/), & [STAT 428](https://sites.google.com/view/susuzhang/teaching/stat-428) [Course Assistant (CA)](https://stat.illinois.edu/resources/student-resources/statistics-course-assistant-application) & researching as part of the [Illinois Mathematics Lab (IML)](https://iml.math.illinois.edu/)
-
 - 🌱 I’m currently learning **more about Computer Science, Data Science, & Statistics**
-
-- 👯 I’m collaborating with [Professor Margaret Fleck](https://mfleck.cs.illinois.edu/), [Professor Lili Zheng](https://lili-zheng-stat.github.io/), [Professor Susu Zhang](https://sites.google.com/view/susuzhang/), & [Professor Igor Mineyev](https://mineyev.web.illinois.edu/)
 
 - 🤝 I’m interested in [Internships & Research](https://researchpark.illinois.edu/work-here/careers)
 
@@ -19,7 +15,7 @@
 
 - 💬 Ask me about **Computer Science, Data Science, & Statistics**
 
-- 📫 Contact me at **nwong27@illinois.edu**
+- 📫 Contact me at **nwong66238@gmail.com**
 
 - 📄 Resume [PDF](https://thewonglife.is-a.dev/html/resume)
 
