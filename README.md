@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **more about Computer Science, Data Science, & Statistics**
 
-- 🤝 I’m interested in jobs
+- 🤝 I’m interested in Data Analyst, Data Engineer, Data Scientist, Software Developer, & Software Engineer jobs
 
 - 👨‍💻 All of my projects are available at [Github (This current page)](https://github.com/TheWongLife)
 
